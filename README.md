@@ -23,6 +23,24 @@ This repo enables such proving capability using SP1-based circuits.
 
 ## Documentation
 
+### 📚 Complete Documentation
+
+For comprehensive documentation including architecture, API reference, proving workflows, and verification guides:
+
+- **[📖 Online Documentation](https://kushmanmb-org.github.io/kushmanmb/docs/)** - View the documentation website
+- **[📁 Documentation Source](docs/)** - Browse documentation files in the repository
+
+**Topics covered:**
+- [Introduction](docs/src/introduction.md) - Overview, use cases, and how ZKPDF works
+- [Quick Start](docs/src/quick-start.md) - Get started in minutes
+- [Architecture](docs/src/architecture.md) - System design and components
+- [API Reference](docs/src/api-reference.md) - Complete function documentation
+- [Proving](docs/src/proving.md) - Server-side proving workflows
+- [Verification](docs/src/verification.md) - On-chain verification guide
+- [FAQ](docs/src/faq.md) - Frequently asked questions
+
+### Component Documentation
+
 - **[PDF Utils](pdf-utils/README.md)** - Core PDF processing libraries
 - **[Circuits](circuits/README.md)** - Zero-knowledge proof circuits
 - **[Circuit Library](circuits/lib/README.md)** -  Complete PDF verification library API
