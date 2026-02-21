@@ -63,7 +63,7 @@ Currently supported:
 
 Use the **ZKPDF Compatibility Checker** to verify if your PDF will work with zkPDF:
 
-🔗 **[https://privacy-ethereum.github.io/zkpdf/](https://privacy-ethereum.github.io/zkpdf/)**
+🔗 **[https://kushmanmb-org.github.io/kushmanmb/](https://kushmanmb-org.github.io/kushmanmb/)**
 
 Simply drop your PDF file into the compatibility checker to:
 
@@ -163,7 +163,7 @@ While not required, attribution is appreciated. You can include:
 
 ```markdown
 This project uses ZKPDF for PDF verification.
-https://github.com/privacy-ethereum/zkpdf
+https://github.com/kushmanmb-org/kushmanmb
 ```
 
 ## Next Steps
