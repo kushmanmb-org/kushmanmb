@@ -16,8 +16,8 @@ This directory contains the complete documentation for the ZKPDF library - a zer
 
 ## 🔗 External Resources
 
-- **Compatibility Check**: [https://privacy-ethereum.github.io/zkpdf/](https://privacy-ethereum.github.io/zkpdf/)
-- **GitHub Repository**: [https://github.com/privacy-ethereum/zkpdf](https://github.com/privacy-ethereum/zkpdf)
+- **Compatibility Check**: [https://kushmanmb-org.github.io/kushmanmb/](https://kushmanmb-org.github.io/kushmanmb/)
+- **GitHub Repository**: [https://github.com/kushmanmb-org/kushmanmb](https://github.com/kushmanmb-org/kushmanmb)
 - **Blog Post**: [ZKPDF: Unlocking Verifiable Data](https://pse.dev/blog/zkpdf-unlocking-verifiable-data)
 
 ## 🛠️ Building the Documentation
